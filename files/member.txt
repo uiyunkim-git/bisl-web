@@ -1,0 +1,23 @@
+phd	정승환 Seunghwan Jung	shjung_new.jpg	Biology	shjung
+phd	김관수 Kwansoo Kim	kskim2.png	Biology	kwskim
+phd	박주연 Jooyeon Park	jypark.jpg	Animal biotechnology	jypark
+phd	이남주 Namjoo Lee	njlee.jpg	Neuroscience	njlee
+phd	권오현 Ohhyun Kwon	ohkwon.jpg	Biology	ohkwon
+phd	왕승현 Seunghyun Wang	shwang.jpg	Biotechnology	shwang
+phd	정재균 Jaegyun Jung	jgjung.jpeg	Korean Medicine	jgjung
+phd	김유태 Yutae Kim	ytkim_new.jpg	Interdisciplinary Program of Integrated OMICS for Biomedical Science	ytkim
+phd	김재홍 Jaehong Kim	jhkim_new.jpg	Bio and brain engineering	jhkim
+phd	한재욱 Jaywook Han	jwhan.jpg	Biology	jwhan
+phd	김한진 Hanjin Kim	hjkim.jpg	Computer science	hjkim
+
+phd	김서진 Seojin Kim	sjkim.jpg	Bio and brain engineering	sjkim
+phd	한만영 Manyoung Han	myhan.jpg	Bio and brain engineering	myhan
+phd	김의연 Uiyun Kim	uykim.jpg	Computer science	uykim
+ms	한성주 Sungjoo Han	sjhan.jpg	Biology and Computer science	sjhan
+ms	김세현 Sehyun Kim	shkim.jpg	Electrical engineering	shkim
+ms	정다연 Dayeon Jeong	dyjeong.jpg	Bio and brain engineering	dyjeong
+ms	채윤병 Yoonbyung Chae	ybchae.jpg	Biomedical engineering	ybchae
+ms	천지연 Jiyeon Chun	jychun.jpg	Biotechnology	jychun
+ms	김상원 Sangwon Kim	swkim.jpg	Systems biology/Computer science	swkim
+ms	정민수 Minsu Jung	msjung.jpg	Biotechnology	msjung
+ms	김이진 Yijin Kim	yjkim.jpg	Bio and brain engineering/Biology	yjkim

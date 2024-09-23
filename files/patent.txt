@@ -1,0 +1,33 @@
+트랜스-아코니트산을 유효성분으로 함유하는 우울장애의 예방, 개선 또는 치료용 조성물	2022
+1,4-나프토퀴논을 유효성분으로 함유하는 우울장애의 예방, 개선 또는 치료용 조성물	2022
+세신, 길경, 계지 중 2종 이상의 혼합추출물을 유효성분으로 포함하는 알레르기성 호흡기 질환예방 또는 치료용 조성물	2018
+호르몬과 약물의 상호작용을 예측하는 전산학적 방법 및 이를 위한 시스템	2018
+임상시험을 위한 데이터 관리방법 및 장치	2018
+Method for Predicting Essential Genes Necessary for Cancer Cell Growth and Device Thereof	2017
+약물 간의 상호 작용 예측 방법	2017
+Composition for preventing of treating metabolic disease	2017
+길경 추출물을 유효성분으로 하는 우울 및 불안 예방, 개선 또는 치료용 조성물	2017
+바이오시너지모델언어를 이용한 상황 특이적인 생물학적 관계 정보 시스템 및 관계 정보의 구축 방법	2017
+Compositions for metabolic disorders comprising alkannin as an active ingredient	2016
+Predicting the Absorption Potential of Chemical Compounds through a Deep Learning Approach	2016
+Prediction of drugs having opposite effects on disease genes in a directed network	2016
+Effective visualization method for large-scale biological networks	2015
+Predicting pharmacodynamic drug-drug interactions by the commonality between drugs	2015
+Predicting pharmacodynamic drug-drug interactions through signaling propagation interference on protein-protein interaction networks	2015
+A method for predicting natural product drugs based on network analysis	2015
+Inferring new drug indications using the complementarity between disease signatures and drug effects	2015
+A method of searching co-occurrence of biomedical literature based on co-operational formation with distributed processing program	2015
+A system and method for identifying colorectal cancer prognosis marker through extracting metabolic regulation genes	2015
+Detecting method for low-frequent somatic deletions with unmatched samples	2014
+Anonymizing Device and Method using Information theory approach of Electronic Medical Records	2013
+System and method for anonymization with seed selection	2012
+A new metabolic biomarker for papillary thyroid cancer diagnosis and biomarker identification method	2009
+A system and method for targeted genetic sequence design based on the estimation of gene translational efficiency	2009
+Obstacle avoidance of autonomous vehicles based on weighted potential field method	2008
+Method for in vivo directed evolution of a target protein	2008
+A labeling method for identifying turtle individuals	2007
+System and method for word recognition from brain activity	2007
+Sequential gene expression network and method to tag cells using it	2006
+System and method for blog generation based on an artificial immune system	2006
+Finding method of new disease-associated genes through analysis of protein-protein interaction network	2006
+System and method for reverse-engineering genetic circuits using Bayesian network learning	2005

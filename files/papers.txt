@@ -1,0 +1,153 @@
+Reverse tracking from drug-induced transcriptomes through multilayer molecular networks reveals hidden drug targets	Computers in Biology and Medicine	2023	4	2023Reversetrackingfromdrug.pdf
+Identifying prognostic subgroups of luminal-A breast cancer using deep autoencoders and gene expressions	PLoS Computational Biology	2023	4	2023Identifyingprognosticsubgroups.pdf
+Large-scale prediction of adverse drug reactions-related proteins with network embedding	Bioinformatics	2022	4	2022Largescalepredictionofadverse.pdf
+Computational Discovery of Cancer Immunotherapy Targets by Intercellular CRISPR Screens	Frontiers in Immunology	2022	4	2022ComputationalDiscoveryofCancer.pdf
+Combining empirical knowledge, in silico molecular docking and ADMET profiling to identify therapeutic phytochemicals from Brucea antidysentrica for acute myeloid leukemia	PLoS One	2022	4	2022Combiningempiricalknowledge.pdf
+Paeonia lactiflora extract improves the muscle function of mdx mice, an animal model of Duchenne muscular dystrophy, via downregulating the high mobility group box 1 protein	Journal of Ethnopharmacology	2022	4	2022Paeonialactifloraextractimproves.pdf
+Machine Learned Light Field Camera that Reads Facial Expression from High Contrast and Illumination Invariant 3D Facial Images	Advanced Intelligent Systems	2022	4	2022MachineLearnedLightFieldCam.pdf
+Linearization Autoencoder: an autoencoder-based regression model with latent space linearization	bioRxiv	2022	4	2022LinearizationAutoencoder.pdf
+Intercellular CRISPR Screens Enhance the Discovery of Cancer Immunotherapy Targets	bioRxiv	2022	4	2022IntercellularCRISPR.pdf
+EGR1/GADD45 activation by ROS of non-thermal plasma mediates cell death in thyroid carcinoma	MDPI	2021	4	2021EGR1GADD45.pdf
+Network Analysis to Identify the Risk of Epidemic Spreading	Applied Sciences	2021	4	2021NetworkAnalysistoIdentify.pdf
+Integrated Network-Based Computational Analysis for Drug Development	Recent Advances in Biological Network Analysis	2021	4	2021IntegratedNetworkBased.pdf
+Identifying prognostic subgroups of luminal-A breast cancer using a deep autoencoder	IEEE International Conference on Bioinformatics and Biomedicine (BIBM)	2020	4	2020Identifyingprognosticsubgroups.pdf
+Temporal changes of the importance of the socioeconomic status factors for depression	ICCC2020	2020	4	2020Temporalchangesoftheimportance.pdf
+Literature mining for context-specific molecular relations using multimodal representations (COMMODAR)	BMC bioinformatics	2020	4	2020Literatureminingforcontextspecific.pdf
+Compositional and functional differences of the mucosal microbiota along the intestine of healthy individuals	Scientific reports	2020	4	2020Compositionalandfunctionaldifferences.pdf
+An interactive retrieval system for clinical trial studies with context-dependent protocol elelments	PloS one	2020	3	2020InteractiveRetrievalSystem.pdf
+Reliable Data Collection in Participatory Trials to Assess Digital Healthcare Applications	IEEE Access	2020	3	2020ReliableDataCollection.pdf
+Concept embedding to measure semantic relatedness for biomedical information ontologies	Journal of Biomedical Informatics	2019	1	2019ConceptEmbedding.pdf
+CODA-ML: context-specific biological knowledge representation for systemic physiology analysis	BMC Bioinformatics	2019	2	2019CODA-MLContext-specificBiologi.pdf
+ETM-DB: integrated Ethiopian traditional herbal medicine and phytochemicals database	BMC Complementary and Alternative Medicine	2019	3	2019ETM-DB.pdf
+Synergistic mechanisms of Sanghuang-Danshen phytochemicals on postprandial vascular dysfunction in healthy subjects: A network biology approach based on a clinical trial	Scientific reports	2019	3	2019SynergisticMechanismsofSanghuang-Danshen.pdf
+Predicting the Absorption Potential of Chemical Compounds through a Deep-Learning Approach	IEEE/ACM Transactions on Computational Biology and Bioinformatics	2018	1	2018PredictingAbsorptionPotential.pdf
+Identification of common coexpression modules based on quantitative network comparison	BMC Bioinformatics	2018	1	2018IdentificationCommonCoexpression.pdf
+A systematic approach to identify therapeutic effects of natural products based on human metabolite information	BMC Bioinformatics	2018	1	2018SystematicApproachIdentify.pdf
+Phenotype-oriented network analysis for discovering pharmacological effects of natural compounds	Scientific Reports	2018	1	2018PhenotypeNetworkNatural.pdf
+Discovering health benefits of phytochemicals with integrated analysis of molecular network, chemical properties and ethnopharmacological evidence	Nutrients	2018	1	2018DiscoveringHealthBenefits.pdf
+Topological motifs populates complex networks through grouped attachments	Scientific Reports	2018	1	2018TopologicalMotifsPopulate.pdf
+Deconvoluting essential gene signatures for cancer growth from genomic expressions in compound-treated cells	Bioinformatics	2018	1	2018DeconvolutingEssentialGene.pdf
+A Data-Driven Approach for Identifying Medicinal Combinations of Natural Products	IEEE Access	2018	1	2018DataDrivenApproachNaturalProducts.pdf
+CONET: a virtual human system-centered platform for drug discovery	Frontiers of Computer Science	2018	2	2018CONETVirtualHuman.pdf
+In silico profiling of systemic effects of drugs to predict unexpected interactions	Scientific Reports	2018	2	2018InSilicoProfiling.pdf
+Petri net-based prediction of therapeutic targets that recover abnormally phosphorylated proteins in muscle atrophy	BMC Sysrtems Biology	2018	2	2018PetriNetPrediction.pdf
+Annotating activation/inhibition relationships to protein-protein interactions using gene ontology relations	BMC Systems Biology	2018	2	2018AnnotatingActivationInhibition.pdf
+Topological motifs populates complex networks through grouped attachments	Scientific Reports	2018	2	2018TopologicalMotifsPopulate.pdf
+Phenotype-oriented network analysis for discovering pharmacological effects of natural compounds	Scientific Reports	2018	3	2018PhenotypeNetworkNatural.pdf
+Discovering health benefits of phytochemicals with integrated analysis of molecular network, chemical properties and ethnopharmacological evidence	Nutrients	2018	3	2018DiscoveringHealthBenefits.pdf
+Deep Learning Classification of Physical Activity with Improved Time Resolution for Children	PeerJ	2018	3	2018DeepLearningClassification.pdf
+CORUS: a blockchain-based trustworthy evaluation system for efficacy of healthcare remedies	CloudCom 2018	2018	3	2018CORUSBlockchainBased.pdf
+A systematic approach to identify therapeutic effects of natural products based on human metabolite information	BMC Bioinformatics	2018	3	2018SystematicApproachIdentify.pdf
+A Data-Driven Approach for Identifying Medicinal Combinations of Natural Products	IEEE Access	2018	3	2018DataDrivenApproachNaturalProducts.pdf
+Coupling effects on turning points of infectious diseases epidemics in scale-free networks	BMC Bioinformatics	2017	2	2017CouplingEffectsTurning.pdf
+CODA: Integrating multi-level context-oriented directed associations for drug effects analysis	Scientific Reports	2017	2	2017CODAIntegratingMultilevel.pdf
+HIDEEP: a systems approach to predict hormone impacts on drug efficacy based on effect paths	Scientific Reports	2017	2	2017HIDEEPSystemsApproach.pdf
+Prediction of drugs having opposite effects on disease genes in a directed network	BMC Systems Biology	2016	1	2016PredictionDrugsOpposite.pdf
+Association analysis of the perturbation of interactions in biological pathways and anticancer drug activity	Biochemical and Biophysical Research Communications (BBRC)	2016	1	2016AssociationAnalysisPerturbation.pdf
+Meta-analysis method for discovering reliable biomarkers by integrating statistical and biological approaches: an application to liver toxicity	Biochemical and Biophysical Research Communications (BBRC)	2016	1	2016MetaAnalysisMethod.pdf
+Dysregulated signaling hubs of liver lipid metabolism reveal hepatocellular carcinoma pathogenesis	Nucleic Acids Research	2016	1	2016DysregulatedSignalingHubs.pdf
+Context-specific functional module based drug efficacy prediction	BMC Bioinformatics	2016	1	2016ContextSpecificFunctional.pdf
+A corpus for plant-chemical relationships in the biomedical domain	BMC Bioinformatics	2016	1	2016CorpusPlantChemical.pdf
+Transcriptome sequencing of the chroid plexus in schizophrenia	Translational Psychiatry	2016	1	2016TranscriptomeSequencingChoroid.pdf
+Normalization of Tumor Vessels by Tie2 Activation and Ang2 Inhibition Enhances Drug Delivery and Produces a Favorable Tumor Microenvironment	Cancer Cell	2016	1	2016NormalizationTumorVessels.pdf
+Prediction of drugs having opposite effects on disease genes in a directed network	BMC Systems Biology	2016	2	2016PredictionDrugsOpposite.pdf
+Association analysis of the perturbation of interactions in biological pathways and anticancer drug activity	Biochemical and Biophysical Research Communications (BBRC)	2016	2	2016AssociationAnalysisPerturbation.pdf
+Meta-analysis method for discovering reliable biomarkers by integrating statistical and biological approaches: an application to liver toxicity	Biochemical and Biophysical Research Communications (BBRC)	2016	2	2016MetaAnalysisMethod.pdf
+Dysregulated signaling hubs of liver lipid metabolism reveal hepatocellular carcinoma pathogenesis	Nucleic Acids Research	2016	2	2016DysregulatedSignalingHubs.pdf
+Context-based resolution of semantic conflicts in biological pathways	BMC Medical Informatics and Decision Making	2015	1	2015Contextbasedresolution.pdf
+Differential activation of immune/ inflammatory response related co-expression modules in the hippocampus across major psychiatric disorders	Molecular Psychiatry	2015	1	2015DifferentialActivationImmune.pdf
+SoloDel: A probabilistic model for detecting low-frequent somatic deletions from unmatched sequencing data	Bioinformatics	2015	1	2015SoloDelProbabilisticModel.pdf
+Predicting pharmacodynamic drug-drug interactions using interference of signaling propagation through protein-protein interaction network	PLoS One	2015	1	2015PredictingPharmacodynamicDrug.pdf
+Predicting Unintended Effects of Drugs based on Off-Target Tissue Effects	Biochemical and Biophysical Research Communications (BBRC)	2015	1	2015Predictingunintendedeffects.pdf
+Inferring new drug indication using the complementarity between clinical disease signatures and drug effects	Journal of Biomedical Informatics	2015	1	2015Inferringnewdrugindications.pdf
+Inference of brain pathway activites for Alzheimer's disease classification	BMC Medical Informatics and Decision Making	2015	2	2015InferenceBrainPathway.pdf
+Dynamic changes in DNA methylation when hES cells undergo differentiation toward a neuronal lineage 	Human Molecular Genetics	2014	1	2014DynamicChangesDNA.pdf
+Vascular RhoJ is an Effective and Selective Target for Tumor Angiogenesis and Vascular Disruption	Cancer Cell	2014	1	2014VascularRhoJEffective.pdf
+Somatic deletions implicated in functional diversity of brain cells of individuals with schizophrenia and unaffected controls	Scientific Reports	2014	1	2014SomaticDeletionsImplicated.pdf
+Anomalies in Network Bridges Involved in Bile Acid Metabolism Predict Outcomes of Colorectal Cancer Patients	PLoS One	2014	2	2014AnomaliesNetworkBridges.pdf
+Generation and application of drug indication inference models using typed network motif comparison analysis	BMC Medical Informatics and Decision Making	2013	1	2013GenerationApplicationDrug.pdf
+Inferring disease association using clinical factors in a combinatorial manner and their use in drug repositioning	Bioinformatics	2013	1	2013InferringDiseaseAssociation.pdf
+Gene expression profiling by mRNA sequencing reveals increased expression of Immune/inflammation-related genes in hippocampus of individuals with schizophrenia	Translational Psychiatry	2013	1	2013GeneExpressionProfiling.pdf
+Rule-based multi-scale simulation for drug effect pathway analysis	BMC Medical Informatics and Decision Making	2013	2	2013RuleBasedMulti.pdf
+Prioritization of SNPs for genome-wide association studies using an interaction model of genetic variation, gene expression, and trait variation	Molecules and Cells	2012	1	2012PrioritizationSNPGenome.pdf
+Discovering context-specific relationships from biological literature by using multi-level context terms 	BMC Medical Informatics and Decision Making	2012	1	2012DiscoveringContextSpecific.pdf
+Association between SNPs and gene expression in multiple regions of the human brain	Translational Psychiatry	2012	1	2012AssociationSNPGene.pdf
+A Bayesian ensemble approach with a disease gene network predicts damaging effects of missense variants of human cancers	Human Genetics	2012	1	2012BayesianEnsembleApproach.pdf
+Social deficits in the AY-9944 mouse model of atypical absence epilepsy	Behavioural Brain Research	2012	1	2012SocialdeficitsintheAY.pdf
+Context-dependent transcriptional regulations between signal transduction pathways	BMC Bioinformatics	2011	1	2011ContextDependentTranscriptional.pdf
+Prediction of cancer prognosis with the genetic basis of transcriptional variations	Genomics	2011	1	2011PredictionCancerPrognosis.pdf
+Predicting tissue-specific expressions based on sequence characteristics 	BMB Reports (Journal of Biochemistry and Molecular Biology)	2011	1	2011PredictingTissueSpecific.pdf
+Context-dependent transcriptional regulations between signal transduction pathways	BMC Bioinformatics	2011	2	2011ContextDependentTranscriptional.pdf
+Predicting disease phenotypes based on the molecular networks with condition-responsive correlation	Int'l Jour. of Data Mining and Bioinformatics	2011	2	2011PredictingDiseasePhenotypes.pdf
+Building the process-drug-side effect network to discover the relationship between biological processes and side effects	BMC Bioinformatics	2011	2	2011BuildingProcessDrug.pdf
+Synthetic inter-species cooperation of host and virus for targeted genetic evolution	Journal of Biotechnology	2011	2	2011SyntheticInterSpecies.pdf
+SigCS base: an integrated genetic information resource for human cerebral stroke	BMC Systems Biology	2011	2	2011SigCSBaseIntegrated.pdf
+Exploring molecular links between lymph node invasion and cancer prognosis in breast cancer	BMC Systems Biology	2011	2	2011ExploringMolecularLinks.pdf
+Inference of Combinatorial Neuronal Synchrony with Bayesian Networks	Journal of Neuroscience Methods	2010	1	None
+Prediction of extracellular matrix proteins based on distinctive sequence and domain characteristics	Journal of Computational Biology	2010	1	2010PredictionExtracellularMatrix.pdf
+MKEM: A Multi-level Knowledge Emergence Model for Mining Undiscovered Public Knowledge	BMC Bioinformatics	2010	1	2010MKEMMultiLevel.pdf
+Multivariate classification of urine metabolome profiles for breast cancer diagnosis	BMC Bioinformatics	2010	1	2010MultivariateClassificationUrine.pdf
+Inference of Combinatorial Boolean Rules of Synergistic Gene Sets from Cancer Microarray Datasets	Bioinformatics	2010	1	2010InferenceCombinationalBoolean.pdf
+Mathematical modeling of translation initiation for the estimation of its efficiency to computationally design mRNA sequences with a desired expression level in prokaryotes	BMC Systems Biology	2010	1	2010MathematicalModelingTranslation.pdf
+RBSDesigner: software for designing synthetic ribosome binding sites that yield a desired level of protein expression	Bioinformatics	2010	1	2010RBSDesignerSoftware.pdf
+Genome-wide DNA-binding specificity of PIL5, a Arabidopsis basic helix-loop-helix (bHLH) transcription factor	Int'l Jour. of Data Mining and Bioinformatics	2010	1	2010GenomeWideDNA.pdf
+Relationships between genetic polymorphisms and transcriptional profiles for the outcome prediction in the treatment of anticancer agents	BMB Reports (Journal of Biochemistry and Molecular Biology)	2010	1	2010RelationshipsBetweenGenetic.pdf
+PSExplorer: Whole parameter space exploration for molecular signaling pathway dynamics	Bioinformatics	2010	2	2010PSExplorer.pdf
+Comparative analysis of the JAK/STAT signaling through erythropoietin receptor and thrombopoietin receptor using a systems approach	BMC Bioinformatics	2009	1	2009ComparativeAnalysisJAKSTAT.pdf
+A method to improve protein subcellular localization prediction by integrating various biological data sources	BMC Bioinformatics	2009	1	2009MethodImproveProtein.pdf
+Genome-wide analysis of genes targeted by PHYTOCHROME INTERACTING FACTOR 3-LIKE5 during seed germination in Arabidopsis	Plant Cell	2009	1	2009GenomeWideAnalysis.pdf
+Mining metastasis related genes by primary-secondary tumor comparisons from large-scale database	BMC Bioinformatics	2009	1	2009MiningMetastasisRelated.pdf
+Identification of Temporal Association Rules from Time-Series Microarray Data Set	BMC Bioinformatics	2009	1	2009IdentificationTemporalAssociation.pdf
+Computational Identification of Altered Metabolism using Gene Expression and Metabolic Pathways	Biotechnology and Bioengineering	2009	1	2009ComputationalIdentificationAltered.pdf
+Phytochromes promote seedling light responses by inhibiting four negatively acting phytochrome-interacting factors	PNAS	2009	1	2009PhytochromesPromotesSeeding.pdf
+A feature-based approach to modelling protein-protein interaction hot spots	Nucleic Acids Research	2009	1	2009FeatureBasedApproach.pdf
+Analysis of AML Genes in Dysregulated Molecular Networks	BMC Bioinformatics	2009	1	2009AnalysisAMLGenes.pdf
+Pathway level analysis by augmenting activities of transcription factor target genes	IET Systems Biology	2009	1	2009PathwayLevelAnalysis.pdf
+Combining Tissue Transcriptomics and Urine Metabolomics for Breast Cancer Biomarker Identification	Bioinformatics	2009	1	2009CombiningTissueTranscriptomics.pdf
+Protein comparison at the domain architecture level	BMC Bioinformatics	2009	1	2009ProteinComparisonAt.pdf
+CONVIRT: a web-based tool for transcriptional regulatory site identification using a conserved virtual chromosome	BMB Reports (Journal of Biochemistry and Molecular Biology)	2009	1	2009CONVIRTWebBased.pdf
+DAhunter: a web-based server that identifies homologous proteins by comparing domain architecture	Nucleic Acids Research	2008	1	2008DAhunterWebBased.pdf
+AsiDesigner: exon-based siRNA design server considering alternative splicing	Nucleic Acids Research	2008	1	2008AsiDesignerExon.pdf
+A protein interaction network associated with asthma	Journal of Theoretical Biology	2008	1	2008ProteinInteractionNetwork.pdf
+Computational Identification of Significantly Regulated Metabolic Reactions by Integration of Data on Enzyme Activity and Gene Expression	BMB Reports (Journal of Biochemistry and Molecular Biology)	2008	1	2008ComputationalIdentificationSignificantly.pdf
+Inferring pathway activity toward precise disease classification	PLoS Computational Biology	2008	1	2008InferringPathwayActivity.pdf
+Density-Induced Support Vector Data Description	IEEE Trans. on Neural Networks	2007	1	2007DensityInducedSupport.pdf
+Patome: a database server for biological sequence annotation and analysis in issued patents and published patent applications	Nucleic Acids Research	2007	1	2007PatomeADatabase.pdf
+Towards clustering of incomplete microarray data without the use of imputation	Bioinformatics	2007	1	2007TowardClusteringOf.pdf
+SNP@Ethnos: a database of ethnically variant single-nucleotide polymorphisms	Nucleic Acids Research	2007	1	2007SNPEthnosDatabase.pdf
+bZIPDB: A database of regulatory information for human bZIP transcription factors	BMC Genomics	2007	1	2007bZIPDBADatabase.pdf
+Enabling Large-scale Bayesian Network Learning by Preserving Intercluster Directionality 	IEICE Transactions on Information and Systems	2007	1	2007EnablingLargeScale.pdf
+H-CORE: Enabling Genome-Scale Bayesian Analysis of Biological Systems Without Prior Knowledge	Biosystems (Elsevier)	2007	1	2007H_COREEnablingGenome.pdf
+Computational identification of combinatorial regulation and transcription factor binding sites	Biotechnology and Bioengineering	2007	1	2007ComputationalIdentificationOf.pdf
+Network-based classification of breast cancer metastasis 	Molecular Systems Biology	2007	1	2007NetworkBasedClassification.pdf
+BioCAD: An Information Fusion Platform for Bio-Network Inference and Analysis	BMC Bioinformatics	2007	1	2007BioCADAnInformation.pdf
+PLPD: Reliable Protein Localization Prediction from Imbalanced and Overlapped Data Sets	Nucleic Acids Research	2006	1	2006PLPDReliableProtein.pdf
+Specificity of molecular interactions in transient protein-protein interaction interfaces	PROTEINS: Structure, Function, and Bioinformatics	2006	1	2006SpecificityOfMolecular.pdf
+Mathematical Modeling of Humoral Immune Response Suppression by Passively Administered Antibodies in Mice	Journal of Theoretical Biology	2006	2	2006MathematicalModelingOf.pdf
+Assessing the Quality of Fuzzy Partitions using Relative Intersection	IEICE Transactions on Information and Systems	2005	1	2005AccessingQualityFuzzy.pdf
+Evaluation of the Performance of Clustering Algorithms in Kernel-Induced Feature Space	Pattern Recognition	2005	1	2005EvaluationOfThe.pdf
+Architecture of Basic Building Blocks in Protein and Domain Structural Interaction Networks	Bioinformatics	2005	1	2005ArchitectureOfBasic.pdf
+A Kernel-Based Substractive Clustering Method	Pattern Recognition Letters	2005	1	2005AKernelBased.pdf
+Detecting Clusters of Different Geometrical Shapes in Microarray Gene Expression Data	Bioinformatics	2005	1	2005DetectingClustersOf.pdf
+Modularized Learning of Genetic Interaction Networks from Biological Annotations and mRNA Expression Data	Bioinformatics	2005	1	2005ModularizedLearningOf.pdf
+A k-Populations Algorithm for Clustering Categorical Data	Pattern Recognition	2005	1	2005KPopulationAlgorithm.pdf
+Possibilistic Support Vector Machines	Pattern Recognition	2005	1	2005PossibilisticSupportVector.pdf
+Improving support vector data description using local density degree	Pattern Recognition	2005	1	2005ImprovingSupportVector.pdf
+Component-Based Software Architecture for Biosystem Reverse Engineering	Biotechnology and Bioprocess Engineering	2005	1	2005ComponentBasedSoftware.pdf
+Construction of Comprehensive Metabolic Network for Glycolysis with Regulation Mechanisms and Effectors	Journal of Microbiology and Biotechnology	2005	2	2005ConstructionComprehensiveMetabolic.pdf
+A Novel Initialization Scheme for Fuzzy C-Means Algorithm for Color Clustering	Pattern Recognition Letters	2004	1	2004NovelInitializationScheme.pdf
+Regression Trees for Regulatory Element Identification	Bioinformatics	2004	1	2004RegressionTreeRegulatory.pdf
+Ranking the Sequences of Fuzzy Values	Information Sciences	2004	1	2004RankingSequencesFuzzy.pdf
+Fuzzy Branching Temporal Logic	IEEE Transactions on Systems, Man and Cybernetics - Part B: Cybernetics	2004	1	2004FuzzyPranchingTemporal.pdf
+Fuzzy Clustering of Categorical Data Using Fuzzy Centroids	Pattern Recognition Letters	2004	1	2004FuzzyClustgeringCategorical.pdf
+On Cluster Validity Index for Estimation of the Optimal Number of Fuzzy Clusters	Pattern Recognition	2004	1	2004ClusterValidityIndex.pdf
+Comparison of type-2 fuzzy values with satisfaction function	International Journal of Uncertainty, Fuzziness and Knowledge-Based Systems		2004	1	2004ComparisonType2Fuzzy.pdf
+A Cluster Validation Index for GK Cluster Analysis Based on Relative Degree of Sharing	Information Sciences	2004	1	2004ClusterValidationIndex.pdf
+The Association of Alu Repeats with the Generation of Potential AU-rich Elements (ARE) at 3' Untranslated Regions	BMC Genomics	2004	1	2004AssociationAluRepeats.pdf
+In silico analysis of lactate producing metabolic network in Lactococcus lactis	Enzyme and Microbial Technology	2004	2	2004InSilicoAnalysis.pdf
+A Taxonomy of Dirty Data	Data Mining and Knowledge Discovery	2003	1	2003TaxonomyOfDirty.pdf
+Fuzzy Cluster Validation Index Based on Inter-Cluster Proximity	Pattern Recognition Letters	2003	1	2003FuzzyClusterValidation.pdf
+A Component-Based Architecture for Preparing Data in Data Warehousing	Journal of Object-Oriented Programming	2000	1	2000ComponentBasedArchitecture.pdf
+Embedded Web Servers: Status and Issues	Journal of Object-Oriented Programming	2000	1	2000EmbeddedWebServer.pdf
+Database Summarization Using Fuzzy ISA Hierarchies	IEEE Transactions on Systems, Man and Cybernetics - Part B: Cybernetics	1997	1	1997DatabaseSummarizationUsing.pdf
+Accommodating Subjective Vagueness through a Fuzzy Extension to the Relational Data Model	Information Systems	1993	1	1993AccommodatingSubjectiveVagueness.pdf

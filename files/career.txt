@@ -1,0 +1,44 @@
+Category	Career	Logo	Num	Who
+UF	Chungang university	cau.png	2	Dokyun Na|Professor,Daewon Kim|Professor
+UF	Harvard Medical school	hms.png	4	Eunjung Lee|Professor,Philhyun Lee|Professor,Jaejoon Choi|Postdoc,Junseok Park|Postdoc
+UF	GIST	gist.png	2	Hojung Nam|Professor,SunJae Lee|Professor
+UF	Suwon University	swu.png	2	Yongdeuk Hwang|Professor,Jinmyung Jung|Professor
+UF	Sunkyunkwan University	skk.png	2	Honghee Won|Professor,Junho Kim|Professor
+UF	Yonsei University	ysu.png	2	Sangwoo Kim|Professor,Inho Park|Professor
+UF	Cha Medical University	cmu.png	1	Sohyun Hwang|Professor
+UF	Gachon University	gcu.png	1	Sungwon Jung|Professor
+UF	Hongik University	hongik.png	1	Seongwoon Hwang|Professor
+UF	Chonnam University	chonnam.svg	1	Sunyong Yoo|Professor
+UF	Seoul National University Bundang Hospital	bundang.svg	1	Sejoon Lee|Professor
+UF	Cambridge Stem Cell Institute	cambridge_stem.png	1	Jaesub Park|Postdoc
+UF	Wellcome Sanger Institute	wellcome.png	1	Hyeoncheol Jeong|Postdoc
+IN	KRIBB	kribb.png	1	Byungwook Lee|Senior Researcher
+IN	KISTI	kisti.jpg	7	Hyojin Kang|Researcher,Hyojung Paik|Senior Researcher,Junhawk Lee|Senior Researcher,Yonghoon Kim|Researcher,Ali Zeeshan Ijaz|Researcher,Thai Quang Tung|Researcher,Jisung Park|Researcher
+IN	Suwon District Court	gdc.png	1	Juhyun Jung|Judge
+IN	KICOX	kicox.jpeg	1	Minsoo Kim
+IN	NIFDSE	nifdse.jpg	1	Sunghwa Bae
+IN	ETRI	etri.png	1	Kiryong Ha
+IN	KOPM	kiom.jpg	1	Yousang Jo|Senior Researcher
+IN	KIAT	kiat.svg	1	Suji Jo
+IN	APEC climate center	apec.png	1	Taewoo Ryu
+IN	RDA	nongchon.jpg	1	Jongan Lee
+IN	IBS	ibs.png	1	Junhyuk Lee|Researcher
+EN	Samsung Card	samcard.jpg	3	Jaehun Lee,Suhyun Ha,Moonshik Shin
+EN	Samsung Electronics	samelec.jpg	3	Mijin Kwon,Gwangmin Kim,Yeongrok Kim
+EN	Moloco	moloco.jpg	1	Kyungrin No
+EN	Microsoft	microsoft.png	1	Namhoon Kim
+EN	Krafton	krafton.png	1	Ryukwang Jung
+EN	Kakao Brain	kakao_brain.svg	1	Hasun Ryu
+EN	Upstage	upstage.png	1	Saehwan Lee
+EN	LG AI	lgai.jpg	2	Kwangmin Kim,Soorin Yim
+EN	LGE	LGE.png	2	Hyundai Choi,Jueun Choi
+EN	Coupang	coupang.png	1	Seockhyeon Moon
+EN	Samjin	samjin.jpg	1	Namjin Gu
+EN	AWS	aws.svg	1	Dongjin Jang
+EN	Dobrain	dobrain.png	1	Hyejin Kam
+EN	Deloitte	deloitte.svg	1	Gyuil Cho
+EN	NHN	nhn.png	1	Seungsu Lee
+EN	CardiaTec	cardiatec.jpg	1	Woochang Hwang
+EN	Doeat	doeat.png	1	Chungsoon Jeong
+EN	Standigm	standigm.png	1	Kyungwook Lee
+EN	Waycen	waycen.jpg	1	Minseon Hwang
